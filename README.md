@@ -14,4 +14,4 @@ The project is deployed live at: [https://fullstackopen-recipeapp.onrender.com](
 
 ### Working hours
 
-- Click on [https://github.com/stfrankies/fullstackopen_project2023_md/blob/main/README.md](working hours) to see my Time keeping markdown file
+- Click on [https://github.com/stfrankies/fullstackopen_project2023_md/blob/main/README.md](working hours) to see my Time keeping markdown file for the fullstackopen project 2023
