@@ -93,3 +93,43 @@ nav .active {
     color: #646cff;
     opacity: 0.7;
 }
+.create-recipe form {
+    display: grid;
+}
+
+.recipes-container {
+    margin: 0 auto;
+    width: 40vw;
+}
+
+.recipes-container h1 {
+    padding-top: 15px;
+    text-align: center;
+}
+
+.recipes-container ul {
+    display: grid;
+    gap: 40px;
+    padding-block: 100px;
+}
+
+.recipes-container ul li {
+    display: grid;
+    gap: 20px;
+    border: 2px solid #1f1f1f;
+    padding: 20px;
+}
+
+.recipes-container ul li h3 {
+    color: #646cff;
+}
+
+.recipes-container ul li div:nth-of-type(1) {
+    display: grid;
+    grid-template-columns: 5fr 1fr;
+}
+
+.recipes-container img {
+    width: 100%;
+    height: auto;
+}
