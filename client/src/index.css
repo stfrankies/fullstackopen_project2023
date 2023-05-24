@@ -133,3 +133,45 @@ nav .active {
     width: 100%;
     height: auto;
 }
+
+.create-recipe form {
+    display: grid;
+    gap: 20px;
+    border: 50px solid #646cff;
+    border-radius: 0.5rem;
+    padding: 30px;
+}
+
+.create-recipe form {
+    border: 30px solid #646cff;
+}
+
+.create-recipe {
+    margin: 100px auto;
+    width: 30vw;
+    font-weight: bold;
+}
+
+.form-group {
+    display: grid;
+    grid-template-rows: repeat(2, auto);
+    gap: 8px;
+}
+
+.form-group input,
+textarea {
+    height: 42px;
+    border: 2px solid #101010;
+    border-radius: 0.5rem;
+    font-size: 20px;
+    padding: 6px 12px;
+    resize: none;
+}
+
+.ingredient-input {
+    margin-bottom: 10px;
+}
+
+textarea {
+    height: 60px;
+}
